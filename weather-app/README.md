@@ -1,4 +1,4 @@
-<h1>🌞 React Weather App 🌞</h1>
+<h1 style="text-align: center;">🌞 React Weather App 🌞</h1>
 I developed a weather app using React and SheCodes Weather API that allows users to search and view the weather conditions for any city worldwide. The app provides real-time data, including temperature, humidity, wind speed, and forecasts, making it easy for users to stay updated on the weather no matter where they are
 
 ![Opera Snapshot_2024-02-08_163132_react-weather-app-shemmee netlify app](https://github.com/s-shemmee/React-Weather-App/assets/56132945/a3aea312-a726-40c6-93bb-45261ecddcad)
