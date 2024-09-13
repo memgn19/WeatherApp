@@ -1,6 +1,7 @@
 <h1 style="text-align: center;">🌞 React Weather App 🌞</h1>
 I developed a weather app using React and SheCodes Weather API that allows users to search and view the weather conditions for any city worldwide. The app provides real-time data, including temperature, humidity, wind speed, and forecasts, making it easy for users to stay updated on the weather no matter where they are
 
+# Demo ☂️
 ![Miniatura](weather-app/assets/miniatura.gif)
 
 
