@@ -2,6 +2,8 @@
 I developed a weather app using React and SheCodes Weather API that allows users to search and view the weather conditions for any city worldwide. The app provides real-time data, including temperature, humidity, wind speed, and forecasts, making it easy for users to stay updated on the weather no matter where they are
 
 
+![Minuatura-img](WeatherApp/miniatura.mp4)
+
 # Features ✨
 - Users can look up the weather for any city globally. 🌎
 - The app shows the latest weather details, such as temperature and a brief weather summary. ⛅
